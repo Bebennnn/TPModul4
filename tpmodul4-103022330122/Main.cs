@@ -1,23 +1,36 @@
 ﻿using System;
-
+using System;
 
 namespace tpmodul4_103022330122
 {
-    class kodepos
+    class MainDoorMachine
     {
         static void Main()
         {
-            KodePos kodePos = new KodePos();
+            DoorMachine pintu = new DoorMachine();
 
-            Console.WriteLine("Input Kelurahan: ");
+            while (true)
+            {
+                Console.Write("\nMasukkan perintah (Buka/Kunci/Keluar): ");
+                string input = Console.ReadLine().ToLower();
 
-            foreach (string kelurahan in new string[]
-            {
-                "Batununggal", "Kujangsari", "Mengger", "Wates", "Cijagra", "Jatisari", "Margasari", "Sekejati",
-                "Kebonwaru", "Maleer", "Samoja"
-            })
-            {
-                Console.WriteLine($"{kelurahan}: {kodePos.GetKodePos(kelurahan)}");
+                if (input == "buka")
+                {
+                    pintu.Unlock(); 
+                }
+                else if (input == "kunci")
+                {
+                    pintu.Lock(); 
+                }
+                else if (input == "keluar")
+                {
+                    Console.WriteLine("Program selesai.");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Perintah tidak dikenali!");
+                }
             }
         }
     }

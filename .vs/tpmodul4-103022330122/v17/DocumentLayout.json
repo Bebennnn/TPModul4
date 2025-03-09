@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|c:\\coding\\visual studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|solutionrelative:tpmodul4-103022330122\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|c:\\coding\\visual studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|solutionrelative:tpmodul4-103022330122\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|c:\\coding\\visual studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|solutionrelative:tpmodul4-103022330122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|c:\\coding\\visual studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|solutionrelative:tpmodul4-103022330122\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4-103022330122\\DoorMachine.cs",
+              "ToolTip": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul4-103022330122\\DoorMachine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:14:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\Main.cs",
               "RelativeDocumentMoniker": "tpmodul4-103022330122\\Main.cs",
               "ToolTip": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\Main.cs",
               "RelativeToolTip": "tpmodul4-103022330122\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:11:16.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T16:11:16.391Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "tpmodul4-103022330122\\Program.cs",
               "ToolTip": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\Program.cs",
               "RelativeToolTip": "tpmodul4-103022330122\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T16:07:32.718Z",
               "EditorCaption": ""
