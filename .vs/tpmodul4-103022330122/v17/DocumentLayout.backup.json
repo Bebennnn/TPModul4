@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|c:\\coding\\visual studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A231F1-2012-4699-8BAC-479DF3CB0AC5}|tpmodul4-103022330122\\tpmodul4-103022330122.csproj|solutionrelative:tpmodul4-103022330122\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4-103022330122\\Program.cs",
+              "ToolTip": "C:\\Coding\\Visual Studio\\tpmodul4-103022330122\\tpmodul4-103022330122\\Program.cs",
+              "RelativeToolTip": "tpmodul4-103022330122\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:07:32.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
